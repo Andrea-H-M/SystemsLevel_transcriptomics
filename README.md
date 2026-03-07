@@ -81,7 +81,7 @@ Transcription factor and epigenetic regulator labels.
 📁 Supplementary
 Gene lists, enrichment results, and supplementary datasets.
 
-## 📦 Datasets generated 
+## 📦 Generated databases 
 
 Comparative Dataset of Differentially Expressed Genes and Conserved Orthologs During the Flower-to-Fruit Transition in Angiosperms
 https://doi.org/10.5281/zenodo.18795437
