@@ -95,10 +95,8 @@ https://doi.org/10.5281/zenodo.18795618
 
 This repository contains scripts and supplementary materials associated with a manuscript currently under peer review.
 
-👩‍🔬 Author
+👩‍🔬 Authors
 
-Andrea Hernández-Miranda
-PhD Program in Biological Sciences
-UNAM
+Olga Andrea Hernández-Miranda, Jorge E Campos, Ulises Rosas, Estela Sandoval-Zapotitla, Ana Sidney Betanzos Ávalos, Juan Alberto Villanueva García, Ma. Concepción Guzmán Ramos, Victor Manuel Salazar-Rojas
 
 <img width="3658" height="1537" alt="image" src="https://github.com/user-attachments/assets/c0803438-1959-472c-8191-46904df2a987" />
