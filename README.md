@@ -49,7 +49,7 @@ https://doi.org/10.5281/zenodo.18765805
 
 Candidate regulators were defined by combining:
 
-Functional labels
+### Functional labels
 
 🧬 C-Orth (conserved orthologs)
 
@@ -59,7 +59,7 @@ Functional labels
 
 🌸 stage-specific genes
 
-Structural labels
+### Structural labels
 
 📊 DEG (differential expression)
 
