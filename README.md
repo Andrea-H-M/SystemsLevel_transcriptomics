@@ -1,4 +1,4 @@
-🌿 Post-pollination syndrome transcriptomics in Vanilla planifolia
+# 🌿 Post-pollination syndrome transcriptomics in Vanilla planifolia
 
 Repository associated with the manuscript:
 
@@ -6,13 +6,13 @@ Systems-level transcriptomics reveals regulatory network and candidate genes beh
 
 📄 Manuscript under peer review
 
-⭐ Key result
+## ⭐ Key result
 
 Integration of orthology, differential expression, and co-expression networks identified:
 
 🧬 88 candidate regulatory genes associated with post-pollination syndrome and ovule reactivation in Vanilla planifolia.
 
-🌸 Biological system
+## 🌸 Biological system
 
 Species: Vanilla planifolia (Orchidaceae)
 
@@ -67,7 +67,7 @@ Structural labels
 
 Genes carrying functional + structural labels were prioritized.
 
-📂 Repository structure
+## 📂 Repository structure
 
 📁 Filtre_genes
 Perl scripts for filtering DEG sequences.
@@ -81,7 +81,7 @@ Transcription factor and epigenetic regulator labels.
 📁 Supplementary
 Gene lists, enrichment results, and supplementary datasets.
 
-📦 Datasets generated 
+## 📦 Datasets generated 
 
 Comparative Dataset of Differentially Expressed Genes and Conserved Orthologs During the Flower-to-Fruit Transition in Angiosperms
 https://doi.org/10.5281/zenodo.18795437
