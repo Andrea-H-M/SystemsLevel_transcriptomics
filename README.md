@@ -30,13 +30,13 @@ Stage	Description
 
 🌾 Fer	Ovary with fertilized ovules (60 days)
 
-🧬 Transcriptome dataset
+## 🧬 Transcriptome dataset
 
 The analyses use the flower-to-fruit transition (FFT) transcriptome previously generated in:
 
 Hernández-Miranda et al. 2025
 
-📦 Dataset available at
+## 📦 Dataset available at
 
 https://link.springer.com/article/10.1186/s12870-025-06476-z
 
