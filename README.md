@@ -27,11 +27,12 @@ Stage	Description
 
 The analyses use the flower-to-fruit transition (FFT) transcriptome previously generated in:
 
-Hernández-Miranda et al.
+Hernández-Miranda et al. 2025
 
 📦 Dataset available at
 
 https://link.springer.com/article/10.1186/s12870-025-06476-z
+
 https://doi.org/10.5281/zenodo.18765805
 
 ⚙️ Methods
