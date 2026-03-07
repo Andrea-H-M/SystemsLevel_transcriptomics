@@ -103,7 +103,7 @@ Candidate Gene Dataset for the Post-Pollination Syndrome
 https://doi.org/10.5281/zenodo.18795618
 
 
-⚠️ Note
+## ⚠️ Note
 
 This repository contains scripts and supplementary materials associated with a manuscript currently under peer review.
 
