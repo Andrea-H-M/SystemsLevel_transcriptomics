@@ -21,9 +21,13 @@ Transcriptomic stages analyzed:
 
 Stage	Description
 🌱 Pre-pol	Floral bud before anthesis
+
 🌼 Pol	Pollinated flower
+
 🥚 Post-pol	Ovary 25 days after pollination
+
 🌾 Fer	Ovary with fertilized ovules (60 days)
+
 🧬 Transcriptome dataset
 
 The analyses use the flower-to-fruit transition (FFT) transcriptome previously generated in:
@@ -41,9 +45,13 @@ https://doi.org/10.5281/zenodo.18765805
 ## Main analyses:
 
 🧬 Orthology inference — OrthoFinder
+
 📊 Differential expression analysis
+
 🧠 Gene co-expression networks — WGCNA
+
 🔍 Functional enrichment — GO / KEGG / gProfiler
+
 📈 Network visualization — igraph (R)
 
 ## Gene prioritization
