@@ -37,7 +37,7 @@ https://doi.org/10.5281/zenodo.18765805
 
 ⚙️ Methods
 
-Main analyses:
+## Main analyses:
 
 🧬 Orthology inference — OrthoFinder
 📊 Differential expression analysis
@@ -45,7 +45,7 @@ Main analyses:
 🔍 Functional enrichment — GO / KEGG / gProfiler
 📈 Network visualization — igraph (R)
 
-🧠 Gene prioritization
+## Gene prioritization
 
 Candidate regulators were defined by combining:
 
