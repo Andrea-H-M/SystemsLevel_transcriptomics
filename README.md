@@ -1,4 +1,5 @@
-# 🌿 Post-pollination syndrome transcriptomics in Vanilla planifolia
+# 🌿 Systems-level transcriptomics reveals regulatory network and candidate genes behind postpollination syndrome in vanilla
+
 
 Repository associated with the manuscript:
 
