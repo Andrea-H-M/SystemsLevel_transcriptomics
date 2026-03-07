@@ -107,7 +107,7 @@ https://doi.org/10.5281/zenodo.18795618
 
 This repository contains scripts and supplementary materials associated with a manuscript currently under peer review.
 
-👩‍🔬 Authors
+## 👩‍🔬 Authors
 
 Olga Andrea Hernández-Miranda, Jorge E Campos, Ulises Rosas, Estela Sandoval-Zapotitla, Ana Sidney Betanzos Ávalos, Juan Alberto Villanueva García, Ma. Concepción Guzmán Ramos, Victor Manuel Salazar-Rojas
 
