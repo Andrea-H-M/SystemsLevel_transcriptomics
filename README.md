@@ -21,6 +21,7 @@ Transcriptomic stages analyzed:
 
 Stage	Description
 
+
 🌱 Pre-pol	Floral bud before anthesis
 
 🌼 Pol	Pollinated flower
