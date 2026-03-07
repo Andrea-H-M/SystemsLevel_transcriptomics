@@ -70,9 +70,6 @@ Genes carrying functional + structural labels were prioritized.
 
 ## 📂 Repository structure
 
-📁 Filtre_genes
-Perl scripts for filtering DEG sequences.
-
 📁 C_Orth_label
 Conserved ortholog annotations (OrthoFinder).
 
