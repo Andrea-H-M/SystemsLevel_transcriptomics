@@ -68,11 +68,6 @@ Structural labels
 Genes carrying functional + structural labels were prioritized.
 
 📂 Repository structure
-.
-├── Filtre_genes
-├── C_Orth_label
-├── TF_EpiReg_label
-├── Supplementary
 
 📁 Filtre_genes
 Perl scripts for filtering DEG sequences.
