@@ -91,7 +91,7 @@ Transcription factor and epigenetic regulator labels.
 📁 Supplementary
 Gene lists, enrichment results, and supplementary datasets.
 
-## 📦 Generated databases 
+## 📦 Research Outputs 
 
 Comparative Dataset of Differentially Expressed Genes and Conserved Orthologs During the Flower-to-Fruit Transition in Angiosperms
 https://doi.org/10.5281/zenodo.18795437
@@ -101,6 +101,8 @@ https://doi.org/10.5281/zenodo.18795163
 
 Candidate Gene Dataset for the Post-Pollination Syndrome
 https://doi.org/10.5281/zenodo.18795618
+
+Workflow for systems-level transcriptomic analysis of the post-pollination syndrome in Vanilla planifolia https://doi.org/10.5281/zenodo.19993038
 
 
 ## 👩‍🔬 Authors
